@@ -1,4 +1,4 @@
-package com.project.x1.capstone.database
+package com.project.x1.capstone
 
 import android.content.ContentValues
 import android.content.Context

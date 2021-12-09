@@ -1,4 +1,4 @@
-package com.project.x1.capstone.service
+package com.project.x1.capstone
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -13,6 +13,7 @@ import android.speech.tts.TextToSpeech
 import android.util.Log
 import androidx.core.app.NotificationCompat
 import java.util.*
+
 
 class ReminderService : Service() {
 
@@ -68,6 +69,7 @@ class ReminderService : Service() {
         )
         builder.setContentIntent(pendingIntent)
         val notification = builder.build()
+
 
         val manager = getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
         manager.notify(reminder.id.toInt(), notification)

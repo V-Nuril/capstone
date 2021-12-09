@@ -1,9 +1,8 @@
-package com.project.x1.capstone.function
+package com.project.x1.capstone
 
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
-import com.project.x1.capstone.service.ReminderService
 
 class Alarm : BroadcastReceiver() {
 

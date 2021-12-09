@@ -1,4 +1,4 @@
-package com.project.x1.capstone.utils
+package com.project.x1.capstone
 
 import android.content.Context
 import android.widget.Toast

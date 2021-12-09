@@ -1,4 +1,4 @@
-package com.project.x1.capstone.ui
+package com.project.x1.capstone
 
 import android.app.AlarmManager
 import android.app.PendingIntent
@@ -9,9 +9,10 @@ import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.widget.PopupMenu
-import com.project.x1.capstone.adapter.Adapter
-import com.project.x1.capstone.database.Data
-import com.project.x1.capstone.database.Reminder
+import androidx.appcompat.app.AlertDialog
+import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.SearchView
+import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
 

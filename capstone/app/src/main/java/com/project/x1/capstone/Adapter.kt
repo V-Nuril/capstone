@@ -1,4 +1,4 @@
-package com.project.x1.capstone.adapter
+package com.project.x1.capstone
 
 import android.annotation.SuppressLint
 import android.graphics.Paint
@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import kotlinx.android.synthetic.main.items.view.*
 
 class Adapter constructor(private val itemClick: OnItemClickListener) :
     RecyclerView.Adapter<Adapter.ViewHolder>() {
