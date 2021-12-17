@@ -1,4 +1,4 @@
-package com.project.x1.capstone
+package com.project.x1.capstone.ui
 
 import android.content.Intent
 import android.os.Bundle

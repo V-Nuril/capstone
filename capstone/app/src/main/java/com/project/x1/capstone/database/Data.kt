@@ -1,9 +1,10 @@
-package com.project.x1.capstone
+package com.project.x1.capstone.database
 
 import android.content.ContentValues
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
+import com.project.x1.capstone.entity.Reminder
 
 class Data(context: Context) :
     SQLiteOpenHelper(context, DATABASE_NAME, null, DATABASE_VERSION) {

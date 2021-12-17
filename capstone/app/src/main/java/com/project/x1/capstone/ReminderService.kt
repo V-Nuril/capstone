@@ -12,6 +12,9 @@ import android.os.IBinder
 import android.speech.tts.TextToSpeech
 import android.util.Log
 import androidx.core.app.NotificationCompat
+import com.project.x1.capstone.database.Data
+import com.project.x1.capstone.entity.Reminder
+import com.project.x1.capstone.ui.MainActivity
 import java.util.*
 
 

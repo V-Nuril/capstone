@@ -13,7 +13,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorWhite"
+        android:background="@drawable/ic_item_green"
         android:orientation="horizontal"
         android:padding="5dp">
 

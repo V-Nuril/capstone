@@ -1,4 +1,4 @@
-package com.project.x1.capstone
+package com.project.x1.capstone.ui
 
 import android.annotation.SuppressLint
 import android.app.*
@@ -8,6 +8,11 @@ import android.os.Build
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import com.project.x1.capstone.*
+import com.project.x1.capstone.function.Alarm
+import com.project.x1.capstone.database.Data
+import com.project.x1.capstone.entity.Reminder
+import com.project.x1.capstone.utils.Object
 import kotlinx.android.synthetic.main.activity_new_task.*
 import java.util.*
 
@@ -156,7 +161,8 @@ class ActivityNewTask : AppCompatActivity() {
         )
         val pendingIntent =
             PendingIntent.getBroadcast(this, savedReminderId.toInt(), reminderReceiverIntent, 0)
-        val formattedDate = Object.getFormattedDateInString(calendar.timeInMillis, "dd/MM/YYYY HH:mm")
+        val formattedDate =
+            Object.getFormattedDateInString(calendar.timeInMillis, "dd/MM/YYYY HH:mm")
         Log.d("TimeSetInMs:", formattedDate)
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
