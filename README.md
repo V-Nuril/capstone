@@ -9,7 +9,7 @@ Aplikasi ini dibuat oleh tim CSD - 008 untuk memenuhi kriteria kelulusan MSIB Di
 
 Deployed Link: https://drive.google.com/drive/folders/1XABFHQy932Rt-E_ftw69ihEXpfRlgbZY
 
-Github Repo Link: This
+Github Repo Link: Ini
 
 
 Presentation Link: https://drive.google.com/file/d/14QPtnEKj6-oFr47TUWj4mSgeOyjKhjTC/view
