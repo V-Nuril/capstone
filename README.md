@@ -7,3 +7,7 @@ Aplikasi ini dibuat oleh tim CSD - 008 untuk memenuhi kriteria kelulusan MSIB Di
 # Screenshot
 ![alt text](https://github.com/V-Nuril/capstone/blob/main/Screenshot/Demo.png)
 
+Deployed Link: https://drive.google.com/drive/folders/1XABFHQy932Rt-E_ftw69ihEXpfRlgbZY
+Github Repo Link: This
+Presentation Link: https://drive.google.com/file/d/14QPtnEKj6-oFr47TUWj4mSgeOyjKhjTC/view
+Video Presentasi Capstone (CSD-008) : https://drive.google.com/file/d/1Gunk3vz-S0EVaAaVtB6husgRtnwPxH0K/view
