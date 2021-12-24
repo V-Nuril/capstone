@@ -29,8 +29,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_slicebackground" />
-                            <entry key="sourceFile" value="D:\asset capstone\Slicebackground.svg" />
+                            <entry key="outputName" value="ic_slicestyle" />
+                            <entry key="sourceFile" value="D:\asset capstone\Slicestyle.svg" />
                           </map>
                         </option>
                       </PersistentState>
