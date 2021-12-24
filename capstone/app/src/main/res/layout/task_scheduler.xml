@@ -3,9 +3,16 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@drawable/layout">
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:background="@color/colorPrimary"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
 
+    </LinearLayout>
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
@@ -22,6 +29,7 @@
             android:id="@+id/add_ed_title"
             android:layout_width="400dp"
             android:layout_height="46dp"
+            android:background="@drawable/bg_edit"
             android:layout_marginTop="38dp"
             android:maxLines="1" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -51,6 +59,7 @@
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="107dp"
+            android:background="@drawable/bg_edit"
             android:hint="@string/description" />
     </com.google.android.material.textfield.TextInputLayout>
 

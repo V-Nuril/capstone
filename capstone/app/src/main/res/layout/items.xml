@@ -9,7 +9,15 @@
     card_view:cardElevation="1dp"
     card_view:cardPreventCornerOverlap="false"
     card_view:cardUseCompatPadding="true">
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:background="@color/colorPrimary"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
 
+    </LinearLayout>
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
