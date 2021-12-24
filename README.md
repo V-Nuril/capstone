@@ -1,6 +1,8 @@
-# capstone ( Dailies Workflow )
+# Capstone ( Dailies Workflow )
 
-Project Brief
+Project Brief Link:
+https://github.com/V-Nuril/capstone/blob/main/Project%20Brief.pdf
+
 DAILIES WORKFLOW
 
 Team ID: CSD-008
