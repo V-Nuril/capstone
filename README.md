@@ -16,6 +16,7 @@ Member 	           :
 1. Nurun Ala Nuril Lokmi
 2. Rey Sandy Alzamora
 
+Backgrounder
 
 aplikasi ini dibuat karena seseorang sering kali seseorang lupa dengan tugas yang menjadi kewajibannya, entah karena banyaknya tugas yang dibebankan ataupun masalah lainnya. Aplikasi ini dirancang untuk mengolah informasi seflexibel agar pengguna dapat mengoperasikannya semudah mungkin.
 
