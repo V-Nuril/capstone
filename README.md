@@ -5,5 +5,5 @@ Aplikasi Dailies Workflows ini merupakan aplikasi Utility To Do yang memiliki fi
 Aplikasi ini dibuat oleh tim CSD - 008 untuk memenuhi kriteria kelulusan MSIB Dicoding, bila ingin men-test aplikasi ini silakan di clone dan import ke Android studio.
 
 # Screenshot
-![alt text](https://github.com/V-Nuril/capstone/blob/main/Screenshot/Screenshot_2021-12-24-20-10-57-48.png)
+![alt text](https://github.com/V-Nuril/capstone/blob/main/Screenshot/Demo.png)
 
